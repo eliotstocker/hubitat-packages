@@ -1,0 +1,37 @@
+{
+  "author": "Eliot Stocker",
+  "gitHubUrl": "https://github.com/eliotstocker",
+  "packages": [
+    {
+      "name": "Virtual Thermostat",
+      "category": "Control",
+      "tags": [
+        "Climate Control",
+        "Temperature & Humidity"
+      ],
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-virtual-thermostat/main/package-manifest.json",
+      "description": "\"A Virtual Thermostat Device for Hubitat to combine a switch and Temperature sensor into a single device"
+    },
+    {
+      "name": "Physical Light Control",
+      "category": "Control",
+      "tags": [
+        "Buttons",
+        "Lights & Switches",
+        "Automations & Groups"
+      ],
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-physical-light-control/main/package-manifest.json",
+      "description": "A hubitat app for easily setting up physical buttons to control a group of lights"
+    },
+    {
+      "name": "Ikea Trådfri RGBW Bulb driver",
+      "category": "Integrations",
+      "tags": [
+        "Lights & Switches",
+        "Zigbee"
+      ],
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-ikea-rgbw/main/package-manifest.json",
+      "description": "A fully functional Hubitat RGBW driver for Ikea Bulbs"
+    }
+  ]
+}
