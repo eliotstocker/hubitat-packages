@@ -32,6 +32,18 @@
       ],
       "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-ikea-rgbw/main/package-manifest.json",
       "description": "A fully functional Hubitat RGBW driver for Ikea Bulbs"
+    },
+    {
+	  "name": "LockShare",
+	  "category": "Control",
+	  "tags": [
+        "Locks",
+        "Dashboards",
+        "Monitoring",
+        "Doors & Windows"
+	  ],
+	  "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-lockshare/main/package-manifest.json",
+	  "description": "Share your locks with guests, family and service worker easily!"
     }
   ]
 }
