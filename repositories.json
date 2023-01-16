@@ -42,7 +42,7 @@
         "Monitoring",
         "Doors & Windows"
       ],
-      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-warmup-connect/main/package-manifest.json",
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-lockshare/main/package-manifest.json",
       "description": "Share your locks with guests, family and service worker easily!"
     },
     {
@@ -52,7 +52,7 @@
         "Climate Control",
         "Temperature & Humidity"
       ],
-      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-lockshare/main/package-manifest.json",
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-warmup-connect/main/package-manifest.json",
       "description": "Full integration for WarmUp Branded thermostats including 4ie and more"
     }
   ]
