@@ -10,7 +10,7 @@
         "Temperature & Humidity"
       ],
       "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-virtual-thermostat/main/package-manifest.json",
-      "description": "\"A Virtual Thermostat Device for Hubitat to combine a switch and Temperature sensor into a single device"
+      "description": "A Virtual Thermostat Device for Hubitat to combine a switch and Temperature sensor into a single device"
     },
     {
       "name": "Physical Light Control",
@@ -34,16 +34,26 @@
       "description": "A fully functional Hubitat RGBW driver for Ikea Bulbs"
     },
     {
-	  "name": "LockShare",
-	  "category": "Control",
-	  "tags": [
+      "name": "LockShare",
+      "category": "Control",
+      "tags": [
         "Locks",
         "Dashboards",
         "Monitoring",
         "Doors & Windows"
-	  ],
-	  "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-lockshare/main/package-manifest.json",
-	  "description": "Share your locks with guests, family and service worker easily!"
+      ],
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-warmup-connect/main/package-manifest.json",
+      "description": "Share your locks with guests, family and service worker easily!"
+    },
+    {
+      "name": "Warmup Connect",
+      "category": "Integrations",
+      "tags": [
+        "Climate Control",
+        "Temperature & Humidity"
+      ],
+      "location": "https://raw.githubusercontent.com/eliotstocker/hubitat-lockshare/main/package-manifest.json",
+      "description": "Full integration for WarmUp Branded thermostats including 4ie and more"
     }
   ]
 }
